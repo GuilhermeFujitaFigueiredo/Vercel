@@ -1,4 +1,4 @@
-function vercel() {
+function enviar() {
     Swal.fire({
     title: "Parabéns!",
     text: "Você hospedou no vercel!",
